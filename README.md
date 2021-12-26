@@ -1,6 +1,6 @@
 🖐️ Hello, my name is Gatis. 
 
-I`m a frontend developer from Latvia.
+I`m a software developer from Latvia.
 
 I’m interested in gaming, 3D printing, crypto and programming,
 and I`m always eager to learn something new.
