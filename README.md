@@ -3,7 +3,7 @@
 I`m a software developer from Latvia.
 
 I’m interested in gaming, 3D printing, crypto and programming,
-and I`m always eager to learn something new.
+and I`m always ready to learn something new.
             
 I have experience with
             
@@ -15,3 +15,6 @@ I have experience with
  - Node.js
  - HTML / CSS
  - SASS
+ - Jest
+ - HTTP
+ - MongoDB
